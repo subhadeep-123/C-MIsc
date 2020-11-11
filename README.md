@@ -1,2 +1,2 @@
-# C-MIsc
+# C-Misc
 Miscellaneous C programs
